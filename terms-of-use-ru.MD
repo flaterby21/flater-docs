@@ -55,7 +55,7 @@ Flater собирает и показывает объявления об аре
 
 ## 11. Контакты
 По любым вопросам, связанным с настоящими Условиями, обращайтесь:
-> Telegram: [@flater_by](https://t.me/flater_by) · E-mail: [указать e-mail]
+> Telegram: [@flater_by](https://t.me/flater_by)
 
 ---
 
